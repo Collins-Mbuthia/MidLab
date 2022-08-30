@@ -1,0 +1,39 @@
+.container{
+    background-color:#ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px;
+    text-align:center;
+}
+.detail{
+    background-color:#4BD7DA;
+    overflow:hidden;
+}
+.detail ul li{
+list-style-type:none;
+float:left;
+padding: 20px 30px;
+}
+.detail ul li a{
+text-decoration:none;
+color:black;
+text-transform:uppercase;
+font-weight:400;
+font-size:14px;
+}
+.Logs{
+background-color:#4BD7DA;
+overflow:hidden;
+}
+.container-text-center{
+background-color:#D9D9D9;
+overflow:hidden;
+text-decoration:none;
+list-style-type:none;
+}
+.container-text-center ul li{
+text-decoration:none;
+list-style-type:none;
+}
+.divv{
+background-color:#111111;
+}
